@@ -3,7 +3,7 @@ import random
 import os
 os.system('clear')
 os.system('toilet --gay "mac-spoofer-pro"')
-print("Tool by: @gaur-avvv")
+print("Tool by: https://github.com/gaur-avvv")
 
 
 
