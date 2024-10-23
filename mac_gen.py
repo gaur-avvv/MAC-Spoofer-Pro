@@ -17,6 +17,6 @@ def generate_random_mac():
         random.randint(0x00, 0xff)
     )
 
-# Example usage:
+#example usage:
 new_mac = generate_random_mac()
 print(f"Generated random MAC address: {new_mac}")
