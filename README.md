@@ -34,6 +34,7 @@ sudo python3 mac_spoof.py
 
 * if you are using kali-linux in vm then choose _eth0_
 * else choose _wlan0_
+* now put the copied mac address to change your original mac address
 
 If you want to check your original mac address run this command and copy original mac address if you want to restore it earlier
 ```
